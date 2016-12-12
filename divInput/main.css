@@ -1,0 +1,16 @@
+#inputDiv {
+    border: 1px solid #888;
+    width: 120px;
+    max-height: 55px;
+    background-color: #fff;
+    color: #666;
+    overflow: hidden;
+    font-size: 12px;
+    min-height: 15px;
+    line-height: 15px;
+}
+
+#inputDiv:focus {
+    color: #2b2b2b;
+    height: 55px;
+}
